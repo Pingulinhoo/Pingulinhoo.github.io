@@ -1,0 +1,3 @@
+# app-ads.txt für «Wer würd?»
+# Die Zeile mit der AdMob-Publisher-ID folgt, sobald das Werbekonto eingerichtet ist.
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0

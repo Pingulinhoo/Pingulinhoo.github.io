@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "id": "winterabig",
+  "name": "Wuchepack: Winterabig",
+  "kurz": "Fondue, Schlittle und Hochnäbel.",
+  "farbe": "#FFFFFF",
+  "werWuerd": [
+    "Wer würd am ehnschte bim erschte Schneeflöckli dur s ganz Huus «Es schneit!» rüefe?",
+    "Wer würd am ehnschte bi de Schneeballschlacht d Siite wächsle und {name} i Rugge falle?",
+    "Wer würd am ehnschte bim Fondue heimlich mit zwei Gäbeli gliichziitig iitunke?",
+    "Wer würd am ehnschte bim Fondue de ganz Abig nur uf d Chruste im Caquelon warte?",
+    "Wer würd am ehnschte im Zug s Fänschter aahauche und en Schneemaa druf male?",
+    "Wer würd am ehnschte {name} zum Schlittle iilade und dänn de schnäller Schlitte für sich bhalte?",
+    "Wer würd am ehnschte bim Schlittle zerscht losrutsche und erscht unde merke, dass niemer nachechunnt?",
+    "Wer würd am ehnschte i de Skiferie de ganz Tag mit Schoggi i de Bergbeiz hocke und vo de Pischte schwärme?",
+    "Wer würd am ehnschte d Pischteplan verchehrt hebe und plötzlich uf ere schwarze Pischte stah?",
+    "Wer würd am ehnschte em Schneemaa im Quartier heimlich e Sunnebrülle und e Krawatte aalegge?",
+    "Wer würd am ehnschte a Silväschter punkt Mitternacht {name} aalüüte, obwohl beidi i de gliiche Stube sind?",
+    "Wer würd am ehnschte d Zimtstern zelle, nur zum gseh, öb öpper heimlich eine gnaa hät?",
+    "Wer würd am ehnschte sich i drü Wolldecki iiwickle und {name} für jede Tee i d Chuchi schicke?",
+    "Wer würd am ehnschte bi Bise ohni Mütze usegah und behaupte, es sig gar nöd chalt?",
+    "Wer würd am ehnschte nach drü Wuche Hochnäbel spontan uf en Bärg fahre, nur zum d Sunne z gseh?"
+  ],
+  "ichHanNoNie": [
+    "Ich bi no nie uf ere Natureisbahn go Schlittschue laufe.",
+    "Ich ha no nie es Iglu baut, wo mer würkli drin hät chönne sitze.",
+    "Ich bi no nie mit eme Plastiksack statt eme Schlitte en Hang abegrutscht.",
+    "Ich ha no nie en Schneemaa baut, wo grösser gsi isch als ich.",
+    "Ich bi no nie bi Nacht mit de Stirnlampe go schlittle.",
+    "Ich bi no nie vom Bügellift abegheit.",
+    "Ich ha no nie bim Raclette es Pfännli mit Schoggi und Banane gmacht.",
+    "Ich ha no nie e Jagge gha, wo nach em Fondue no Täg lang nach Chäs gschmöckt hät.",
+    "Ich ha no nie Guetzli bache, wo so hert gsi sind, dass mer si hät müesse i Tee tunke.",
+    "Ich ha no nie bim Wichtle mis eigete Gschänk zrugg übercho.",
+    "Ich bi no nie a Silväschter vor Mitternacht iigschlafe.",
+    "Ich ha no nie en guete Vorsatz fürs neue Jahr scho im Januar wider ufgeh.",
+    "Ich ha no nie mit ere Bettfläsche gschlafe.",
+    "Ich ha no nie bi Bise uf em Velo wie wild gstramplet und bi trotzdem kaum vom Fläck cho.",
+    "Ich bi no nie obe uf eme Bärg über em Näbelmeer gstande."
+  ],
+  "wuerdschLieber": [
+    { "a": "es Fondue mit 20 Lüüt us eim Caquelon ässe", "b": "es Raclette mit eim einzige Pfännli für alli ässe" },
+    { "a": "e Wuche lang jede Tag Schneeschue wandere", "b": "e Wuche lang jede Tag Schlittschue laufe" },
+    { "a": "Skiferie mit Sunne, aber ohni Schnee mache", "b": "Skiferie mit Pulverschnee, aber ohni Sicht mache" },
+    { "a": "em Samichlaus en Tanz vorfüehre", "b": "em Samichlaus es Lied uf de Blockflöte vorspiele" },
+    { "a": "a Silväschter scho am nüni is Bett gah", "b": "a Silväschter bis zum Sunneufgang wach bliibe" },
+    { "a": "e Wuche lang überall i de Skischue umelaufe", "b": "e Wuche lang überall i Finke umelaufe, au im Schnee" },
+    { "a": "s ganz Jahr lang Wiehnachte ha", "b": "s ganz Jahr lang Fasnacht ha" },
+    { "a": "e Wuche iigschneit sii, mit Brettspiil und ohni WLAN", "b": "e Wuche iigschneit sii, mit WLAN und ohni Brettspiil" },
+    { "a": "mit {name} im Bob de Schlittelwäg abefahre", "b": "mit {name} e Schneeballschlacht gäge alli füehre" },
+    { "a": "en Tag lang Schneepflug fahre", "b": "en Tag lang d Pischteraupe fahre" }
+  ]
+}
