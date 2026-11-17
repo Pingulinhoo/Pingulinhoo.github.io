@@ -1,3 +1,2 @@
 # app-ads.txt für «Bisch en Eidgnoss?»
-# Die Zeile mit der AdMob-Publisher-ID folgt, sobald das Werbekonto eingerichtet ist.
-# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+google.com, pub-3891982685718151, DIRECT, f08c47fec0942fa0
